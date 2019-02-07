@@ -1,0 +1,10 @@
+BM_113740_0+	113740	02.01.2013	04.01.2013	5000000000	99,983	schatz	bm_bund	emissionen	bestand_fa
+BM_113740_1+	113740	02.01.2013	04.01.2013	-1000000000	99,983	schatz	bm_bund	eigenbestand	tender_aufst
+BM_113740_2+	113524	02.01.2013	07.01.2013	-56000000	104,277	bund10	bm_bund	eigenbestand	bestand_fa
+BM_113740_3+	113526	02.01.2013	07.01.2013	-39000000	107,494	bund10	bm_bund	eigenbestand	bestand_fa
+BM_113740_4+	113549	02.01.2013	07.01.2013	29000000	100,17	bund10	bm_bund	eigenbestand	bestand_fa
+BM_113740_5+	114164	02.01.2013	07.01.2013	43000000	100,691	bobl	bm_bund	eigenbestand	bestand_fa
+BM_113740_6+	113740	02.01.2013	07.01.2013	71000000	99,954	schatz	bm_bund	eigenbestand	bestand_fa
+BM_113740_7+	114164	03.01.2013	08.01.2013	42000000	100,57	bobl	bm_bund	eigenbestand	bestand_fa
+BM_113740_8+	113549	03.01.2013	08.01.2013	28000000	101,03	bund10	bm_bund	eigenbestand	bestand_fa
+BM_113740_9+	114164	03.01.2013	08.01.2013	12000000	100,59	bobl	bm_bund	eigenbestand	bestand_fa
