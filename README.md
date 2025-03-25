@@ -1,4 +1,4 @@
-@author: Neeraj Singh
+@author: Saurya Singh
 # equant-spark
 Spark based Enterprise Quant Analytics
 
