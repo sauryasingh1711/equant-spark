@@ -13,7 +13,7 @@
                 </th>
                 <th width="708"
                     style="font-size:xx-large; color:Black; background-color:ThreeDFace; font-stretch:condensed;">
-                     MoRE System 
+                     eQuant System 
                     <abbr>
                         <mark></mark>
                     </abbr>
